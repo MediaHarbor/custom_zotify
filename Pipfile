@@ -5,7 +5,7 @@ name = "pypi"
 
 [packages]
 librespot = {git = "git+https://github.com/kokarare1212/librespot-python"}
-music-tag = {git = "git+https://zotify.xyz/zotify/music-tag"}
+music-tag = {git = "git+https://github.com/DraftKinner/music-tag"}
 mutagen = "*"
 pillow = "*"
 pkce = "*"
